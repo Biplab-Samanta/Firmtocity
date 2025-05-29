@@ -1,0 +1,21 @@
+.abc {
+    min-width: 500px;
+    margin: auto;
+    padding: 1.5rem 2rem;
+    border-radius: 0.75rem;
+    background-color: rgba(255, 255, 255, 0.7);
+    -webkit-backdrop-filter: blur(7px);
+    backdrop-filter: blur(7x);
+    text-align: center;
+}
+
+.section {
+    background-image: url(../assets/images/register.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+
+}
